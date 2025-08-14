@@ -52,4 +52,6 @@ Compiled binaries are available in the [Releases](../../releases) section.
 MIT License — do whatever you want, but credit **Nullsec0x**.
 
 ##  Screenshots
-*(Add screenshots here if you want)*
+| Exit message prompt | App interface |
+|---------------|--------------|
+|[![Virtual-Box-Win-XP-machine-13-08-2025-17-16-22.png](https://i.postimg.cc/0QJZxXGL/Virtual-Box-Win-XP-machine-13-08-2025-17-16-22.png)](https://postimg.cc/1nsDrHjH) | [![Virtual-Box-Win-XP-machine-13-08-2025-17-16-52.png](https://i.postimg.cc/FK6GMXSy/Virtual-Box-Win-XP-machine-13-08-2025-17-16-52.png)](https://postimg.cc/FfjjSqDz) |
